@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300/0d1117/7f9f7f?text=Allex+Marques+-+Programador" alt="Banner Programação" width="100%" />
-</p>
-
-# 👋 Olá, eu sou o Allex Marques!
+## 👋 Olá, eu sou o Allex Marques!
 
 ## 💻 Sobre mim  
 🎓 Estudante do **1º semestre de Análise e Desenvolvimento de Sistemas**  
