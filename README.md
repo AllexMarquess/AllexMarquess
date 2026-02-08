@@ -1,44 +1,40 @@
-## 👋 Olá, eu sou o Allex Marques!
+<h1 align="center">Olá eu sou Alex Marques</h1>
 
-## 💻 Sobre mim  
-🎓 Estudante do **1º semestre de Análise e Desenvolvimento de Sistemas**  
-🚀 Criando projetos com **HTML, CSS, JavaScript, React, Python, Node.js, TypeScript e MySQL**  
-🛠️ Uso **Git e GitHub** para versionamento de código e colaboração  
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="amazonwebservices logo"  />
+</div>
 
-## ⚙️ Tecnologias que uso
+###
 
-<img align="left" alt="HTML5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
 
-<br clear="both" />
+###
 
----
 
-## 📊 Minhas Estatísticas do GitHub
 
-<p align="center">
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AllexMarques&show_icons=true&theme=radical&count_private=true" />
-</p>
+###
 
-<p align="center">
-  <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllexMarques&layout=compact&theme=radical" />
-</p>
 
----
 
-## 📌 Projetos em destaque  
-Confira meus projetos fixados no GitHub: aplicações web, automações e projetos em Node.js e React.
-
----
+###
 
 ## 📱 Redes & Contatos  
 <p align="center">
@@ -47,7 +43,7 @@ Confira meus projetos fixados no GitHub: aplicações web, automações e projet
   <a href="https://www.tiktok.com/@allex_marquess" target="_blank">🎵 TikTok</a>
 </p>
 
----
+
 
 > Obrigado por visitar meu GitHub! 🚀  
 > Vamos programar e aprender juntos!
