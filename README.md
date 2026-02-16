@@ -1,4 +1,11 @@
 <h1 align="center">Olá eu sou Alex Marques</h1>
+<p>
+Estou Cursando Analise e Desenvolvimento de Sistemas.
+
+Apesar de novo, tenho bastante experiência no mercado, durante o ano que atuo como desenvolvedor de sites e aplicações web. Minhas principais habilidades são HTML, CSS, JS e PHP, trabalhando com algumas bibliotecas como React.js e frameworks como Laravel ( PHP ) e Express ( Node.js ). Também tenho experiência em Wordpress e desenvolvimento de temas e plugins, WooCommerce e muito mais!
+
+Todos meus projetos são focados em design de interação, levando em consideração sempre as boas práticas de programação, seguindo sempre os padrões de desenvolvimento web, tais como as recomendações do Google e da comunidade, para atingir os melhores índices de desempenho !
+</p>
 
 ###
 
@@ -22,25 +29,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
 
-###
-
-
-
-###
-
-
-
-###
-
-## 📱 Redes & Contatos  
+ 📱 Redes & Contatos  
 <p align="center">
-  <a href="mailto:Allexmarquesoficial@gmail.com">✉️ Email</a> •  
-  <a href="https://www.linkedin.com/in/alex-marquess" target="_blank">🔗 LinkedIn</a> •  
-  <a href="https://www.tiktok.com/@allex_marquess" target="_blank">🎵 TikTok</a>
+  <a href="mailto:Allexmarquesoficial@gmail.com">Email</a> •  
+  <a href="https://www.linkedin.com/in/alex-marquess" target="_blank">LinkedIn</a> •  
+  <a href="https://www.tiktok.com/@allex_marquess" target="_blank">TikTok</a>
 </p>
 
 
