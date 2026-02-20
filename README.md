@@ -1,43 +1,51 @@
-<h1 align="center">Olá eu sou Alex Marques</h1>
-<p>
-Estou Cursando Analise e Desenvolvimento de Sistemas.
-
-Apesar de novo, tenho bastante experiência no mercado, durante o ano que atuo como desenvolvedor de sites e aplicações web. Minhas principais habilidades são HTML, CSS, JS e PHP, trabalhando com algumas bibliotecas como React.js e frameworks como Laravel ( PHP ) e Express ( Node.js ). Também tenho experiência em Wordpress e desenvolvimento de temas e plugins, WooCommerce e muito mais!
-
-Todos meus projetos são focados em design de interação, levando em consideração sempre as boas práticas de programação, seguindo sempre os padrões de desenvolvimento web, tais como as recomendações do Google e da comunidade, para atingir os melhores índices de desempenho !
-</p>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="amazonwebservices logo"  />
+
+# 👋 Olá, eu sou Alex Marques  
+
+### 💻 Estudante de Análise e Desenvolvimento de Sistemas  
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FFB2&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web;Frontend+%26+Backend;Criando+experiências+digitais" />
+
 </div>
 
-###
+---
 
+## 🚀 Sobre mim  
 
- 📱 Redes & Contatos  
-<p align="center">
-  <a href="mailto:Allexmarquesoficial@gmail.com">Email</a> •  
-  <a href="https://www.linkedin.com/in/alex-marquess" target="_blank">LinkedIn</a> •  
-  <a href="https://www.tiktok.com/@allex_marquess" target="_blank">TikTok</a>
-</p>
+🎯 Mesmo sendo novo, já atuo no mercado como **desenvolvedor de sites e aplicações web**.  
 
+💡 Trabalho com foco em **design de interação**, boas práticas de programação e performance.  
 
+📈 Sempre seguindo os padrões recomendados pelo Google e pela comunidade para alcançar os melhores índices de desempenho.
 
-> Obrigado por visitar meu GitHub! 🚀  
-> Vamos programar e aprender juntos!
+---
+
+## 🛠️ Tecnologias & Ferramentas  
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,php,laravel,express,wordpress,git" />
+
+</div>
+
+---
+
+## 🌐 Redes & Contato  
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Allexmarquesoficial@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/alex-marquess)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@allex_marquess)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Obrigado por visitar meu perfil!  
+### Vamos programar e evoluir juntos!
+
+</div>
+
